@@ -1,0 +1,46 @@
+.container__File{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 100%;
+    height: 35px;
+    font-size: 18px;
+
+}
+.name__File{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 60%;
+    justify-content: flex-start;
+}
+.type__File{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 20%;
+    justify-content: flex-start;
+}
+.size__File{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 20%;
+    justify-content: flex-start;
+}
+/* .date__File{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 15%;
+    justify-content: flex-start;
+} */
+.logo__file{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 30%;
+    justify-content: center;
+}
+span{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 40%;
+    justify-content: flex-start;
+    cursor: pointer;
+}

@@ -1,0 +1,65 @@
+.container__Footer {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  width: 100%;
+  border-top: 1px solid grey;
+}
+.mLeft__Footer {
+  height: 100%;
+  width: 5%;
+}
+.fileInfo__footer {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: flex-start;
+  align-items: center;
+  height: 100%;
+  width: 30%;
+  /* border-top: 2px solid black; */
+}
+.form__Footer {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+.form__Footer button {
+  margin: 5px;
+}
+.inputim_footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.mRight__Footer {
+  height: 100%;
+  width: 5%;
+}
+.createFile__Footer,
+.createFolder__Footer,
+.copy__Footer,
+.delete__Footer,
+.RenameFolder__Footer {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  display: flex;
+}
+.input_button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}

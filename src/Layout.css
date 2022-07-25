@@ -1,0 +1,12 @@
+.container__Layout{
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: center; */
+
+  /* text-align: center; */
+  width: 100vw;
+  height: 97vh;
+}

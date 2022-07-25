@@ -1,0 +1,12 @@
+.div__Line{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+}
+.sub_fileInfo__footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-between;
+    width: 100%;
+}
